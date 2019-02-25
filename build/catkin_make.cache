@@ -1,0 +1,2 @@
+udacity_bot
+-DCATKIN_DEVEL_PREFIX=/home/kiran/where/devel -DCMAKE_INSTALL_PREFIX=/home/kiran/where/install -G Unix Makefiles
